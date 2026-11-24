@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+  <title>Vovó Turbo em forma de maneki-neko com a patinha levantada</title>
+  <defs>
+    <mask id="cat-details" maskUnits="userSpaceOnUse" x="0" y="0" width="128" height="128">
+      <path fill="white" d="M32 48L32 20Q32 9 41 15L58 32Q73 28 88 33L105 15Q114 10 114 22L113 50Q120 63 119 78Q118 100 100 110Q81 122 57 115Q41 112 31 101Q23 91 23 74Q23 58 32 48Z"/>
+      <g fill="black">
+        <path d="M39 25L39 42L50 36ZM105 25L95 37L108 44ZM64 33Q73 31 81 34Q77 44 72 44Q67 43 64 33Z"/>
+        <path d="M37 62Q47 58 58 63Q53 75 44 71Q39 69 37 62ZM85 63Q96 58 107 62Q104 70 98 72Q90 75 85 63Z"/>
+        <path d="M68 78Q73 77 79 78L74 84Z"/>
+      </g>
+      <path fill="white" d="M44 61H51V65Q47 71 44 65ZM92 61H99V65Q96 71 92 65Z"/>
+      <g stroke="black" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M40 55L38 51M47 53V49M54 55L56 51M89 55L87 51M96 53V49M103 55L105 51M74 84V88Q69 94 65 89M74 88Q79 94 83 89M36 80L46 82M36 89L46 88M101 82L111 80M101 88L111 89"/>
+      </g>
+      <path fill="white" d="M25 104C16 108 6 100 5 89L4 74C4 64 9 58 15 58C25 56 31 65 32 75L34 88C36 96 31 101 25 104Z"/>
+      <g fill="black">
+        <ellipse cx="18" cy="85" rx="5" ry="6"/>
+        <circle cx="10" cy="73" r="2.4"/>
+        <circle cx="17" cy="68" r="2.4"/>
+        <circle cx="24" cy="72" r="2.4"/>
+      </g>
+      <path d="M31 77Q30 85 33 91" stroke="black" stroke-width="2.7" stroke-linecap="round"/>
+    </mask>
+  </defs>
+  <path fill="#bcabed" mask="url(#cat-details)" d="M0 0H128V128H0Z"/>
+</svg>
